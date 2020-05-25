@@ -84,20 +84,17 @@ ul, menu, dir {
   margin-top:-100px;
    margin-left:-20px;
     width:100%;
-	 height: auto;
+    height: auto;
 
 
 
 }
 @media (min-width: 768px)
-	.brand-img{
+.brand-img{
   margin-top:-100px;
-   margin-left:-20px;
-    width:50%!important;
-	 height: 50%!important;
-
-
-
+  margin-left:-20px;
+  width:50%!important;
+  height: 50%!important;
 }
 .navbar-collapse.collapse {
     display: block!important;
