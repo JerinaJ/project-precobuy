@@ -93,8 +93,8 @@ ul, menu, dir {
 	.brand-img{
   margin-top:-100px;
    margin-left:-20px;
-    width:50%;
-	 height: 50%;
+    width:50%!important;
+	 height: 50%!important;
 
 
 
