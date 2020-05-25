@@ -90,6 +90,15 @@ ul, menu, dir {
 
 }
 @media (min-width: 768px)
+	.brand-img{
+  margin-top:-100px;
+   margin-left:-20px;
+    width:50%;
+	 height: 50%;
+
+
+
+}
 .navbar-collapse.collapse {
     display: block!important;
     height: auto!important;
@@ -180,7 +189,7 @@ transition-timing-function:ease;
 visibility: visible;
 width:94.5781px;
 -webkit-tap-highlight-color:rgba(0, 0, 0, 0);
-Rendered Fonts Times New Roman—Local file(8 glyphs)*//* CSS Document */
+Rendered Fonts Times New Romanâ€”Local file(8 glyphs)*//* CSS Document */
 @media (min-width: 768px)
 header .header-content .header-content-inner h1 {
     font-size: 50px;
